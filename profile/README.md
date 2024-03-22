@@ -12,6 +12,6 @@ Together, let's embark on a journey to elevate the NixOS experience by harnessin
 
 ## Community
 
-Many people have already contributed to the NixOS-Pilots projects and [you can too](https://github.com/NixOS-Pilots/NixOS-Pilots/blob/main/CONTRIBUTING.md). We'd love you to join us!
+Many people have already contributed to the NixOS-Pilots projects and [you can too](https://github.com/NixOS-Pilots/.github/blob/master/CONTRIBUTING.md). We'd love you to join us!
 
 Made with passion 🔥 by [@NixOS-Pilots](https://github.com/NixOS-Pilots)
